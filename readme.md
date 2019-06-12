@@ -61,7 +61,7 @@ RED_ARROW
 
 ```
 
-![时序图](http://www.plantuml.com/plantuml/png/9OrB2i9040Ntda8FCDCRLwvobNRoC86UpjWVDBVNa5L1GL6J1rjabyjjrIOv8qskIyJm1v7nfxxMMFAP3ckR1ZHgspfzatK73M4zwkAn2qgxKsSF63dt8N1ol1FQK4vHnx6QeFEVFm00)
+![时序图](https://github.com/xuanye/plantuml-style-c4/blob/master/dist/samples/sequence-sample/sequence-sample.png?raw=true)
 
 
 ### 2. 类图
@@ -296,7 +296,7 @@ Rel(banking_system, mainframe, "Uses")
 ```
 
 
-![System Context](https://www.plantuml.com/plantuml/img/9Oqv3eD0301xNa4UiEk6AXLVSOmLaBncvKF0xvEGRZJIQ6OFjCWcm_3Ob2GNJfDnZUZ-130ywdkBDL_fRBHhi4QblS6Pg1T35zHVNZmkuK8JDFHW0yVMXHreAdTsHlchsk_RpBfyuGC0)
+![System Context](https://github.com/xuanye/plantuml-style-c4/blob/master/dist/samples/c4-context-sample/system-context-diagram.png?raw=true)
 
 
 ### 2. Container 
@@ -345,7 +345,7 @@ Rel_Neighbor(backend_api, banking_system, "Uses", "sync/async, XML/HTTPS")
 @enduml
 ```
 
-![容器图](http://www.plantuml.com/plantuml/png/9Sqz2iCm3CNnlQTe3s1hoTGfLr4LqHXanUY3DhTlJQO73txyLm-qo2wtHrEIt3XDxdl4y2U0uQU-M-pvIcUZGuCrAXqTlebwCWn1dRfudCA55kZemGQEVGWxq58cmwPivJhhcBcLTVll3m00)
+![容器图](https://github.com/xuanye/plantuml-style-c4/blob/master/dist/samples/c4-container.sample/container-diagram.png?raw=true)
 
 ### 3.Component
 
@@ -387,7 +387,7 @@ Rel(ma, accounts, "Uses", "JSON/HTTPS")
 @enduml
 ```
 
-![组件图](https://www.plantuml.com/plantuml/img/9Or13eCm30Jll88-8F65KqzynGIh83cE5Tjg-NrJUbkDPhIhENQFojFqEALmx1ITvyDTxGdGyPrVfn-nXL4lJPp4SsaLFe5o4IYZ_F9aVZ6bia15S-fWM9N9e2nfwDfaXEaFizv_Aya-nXS0)
+![组件图](https://github.com/xuanye/plantuml-style-c4/blob/master/dist/samples/c4-componet-sample/component-diagram.png?raw=true)
 
 
 ### 4 Code 
